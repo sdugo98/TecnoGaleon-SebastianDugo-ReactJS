@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "nombre": "Apple Macbook Air A2337",
+      "tipo": "Notebook",
+      "anio": 2020,
+      "caracteristicas": "13 Pulgadas",
+      "precio": 358000,
+      "img": "https://pdbimg.choice.com.au/apple-macbook-air-13-inch-a2337_1.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre":"HP 14 Ryzen",
+      "tipo": "Notebook",
+      "anio": 2019,
+      "caracteristicas": "14 Pulgadas",
+      "precio": 198035,
+      "img": "https://http2.mlstatic.com/D_NQ_NP_691925-MLA43227527392_082020-O.jpg",
+      "cantidad": 1
+    },
+    {
+     "id": 3,
+     "nombre": "Acer Aspiro Nitro 5 AN515-14",
+     "tipo": "Notebook",
+     "anio": 2020,
+     "caracteristicas": "15.6 Pulgadas",
+     "precio": 300000,
+     "img": "https://img.pccomponentes.com/articles/38/387048/1460-acer-nitro-5-an515-55-75fs-intel-core-i7-10750h-16gb-1tb-ssd-rtx-3060-156.jpg",
+     "cantidad": 1
+    },
+    {
+     "id": 4,
+     "nombre": "Acer KG1 LED",
+     "tipo": "Monitor",
+     "anio": 2019,
+     "caracteristicas": "23.6 pulgadas",
+     "precio": 132000,
+     "img": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81dANbrY+1L._AC_SS450_.jpg",
+     "cantidad": 1
+    },
+    {
+     "id": 5,
+     "nombre": "Samsung Odyssey",
+     "tipo": "Monitor",
+     "anio": 2020,
+     "caracteristicas": "24 pulgadas",
+     "precio": 96120,
+     "img": "https://www.maximus.com.ar/Temp/App_WebSite/App_PictureFiles/Items/LC24RG50FZLCZB_800.jpg",
+     "cantidad": 1
+    },
+    {
+     "id": 6,
+     "nombre": "LG 27gl650f",
+     "tipo": "Monitor",
+     "anio": 2019,
+     "caracteristicas": "27 pulgadas",
+     "precio": 137833,
+     "img": "https://www.lg.com/co/images/monitores/md06141156/gallery/M-01.jpg",
+     "cantidad": 1
+    },
+    {
+     "id": 7,
+     "nombre": "Sony Playstation 5 828GB Digital Edition",
+     "tipo": "Consola",
+     "anio": 2020,
+     "caracteristicas": "HD & 4K",
+     "precio": 345000,
+     "img": "https://www.necxus.com.ar/products_image/22846/1000x1000_2.jpg",
+     "cantidad": 1
+    },
+    {
+     "id": 8,
+     "nombre": "AMD Fighter Radeon 6600 Series RX",
+     "tipo": "Placa de Video",
+     "anio": 2022,
+     "caracteristicas": "8GB Ram",
+     "precio": 118500,
+     "img": "https://intercompras.com/images/product/POWERCOLOR_AXRX_6600_8GBD6-3DH.jpg",
+     "cantidad": 1
+    },
+    {
+     "id": 9,
+     "nombre": "Nvidia GeForce RTX3060Ti OC",
+     "tipo": "Placa de Video",
+     "anio": 2021,
+     "caracteristicas": "8GB Ram",
+     "precio": 205000,
+     "img": "https://app.contabilium.com/files/explorer/7026/Productos-Servicios/concepto-4815908.jpg",
+     "cantidad": 1
+    },
+    {
+     "id": 10,
+     "nombre": "Nvidia GeForce GRX1660 OC",
+     "tipo": "Placa de Video",
+     "anio": 2020,
+     "caracteristicas": "6GB Ram",
+     "precio": 140000,
+     "img": "https://www.fullh4rd.com.ar/img/productos/Pics_Prod/video-geforce-gtx-1650-4gb-gigabyte-oc-single-fan-0.jpg",
+     "cantidad": 1
+    }
+]
