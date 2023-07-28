@@ -1,3 +1,21 @@
+# Introduction
+
+This project was made with the objective of represent the final state of Coderhouse's react course. It will represent an e-commerce.
+This project was made by Sebastian Dugo.
+
+# Technologies
+
+This project has been made with the following tools: HTML, CSS, Javascript, React, Firebase, React-Router DOM, React-Bootstrap, NodeJS, and GitHub.
+
+Main dependences:
+
+- [React JS](https://reactjs.org/)
+- [Bootstrap React](https://react-bootstrap.github.io/)
+- [Font Awesome Icon](https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react)
+- [Firebase](https://firebase.google.com/)
+- [React Router DOM](https://v5.reactrouter.com/web/guides/quick-start)
+- [Sweet Alert 2](https://sweetalert2.github.io/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
